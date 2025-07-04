@@ -1,4 +1,4 @@
-# linus-webserver
+# linux-webserver
 hosting website on linux Webserver Apache on ubuntu
 ############################
  // amazon linux/redhat  
